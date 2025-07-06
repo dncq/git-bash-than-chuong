@@ -1,4 +1,5 @@
 print("Hap tinh dai phap")
+print("Giang long thap bat chuong")
 print("Cuu am chan kinh")
 print("Cu tuyet tinh")
 print("Huyen thien tu")
