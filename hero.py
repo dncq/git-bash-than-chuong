@@ -1,1 +1,1 @@
-print("Cuu am chan kinh")
+print("Tich ta kiem phap")
